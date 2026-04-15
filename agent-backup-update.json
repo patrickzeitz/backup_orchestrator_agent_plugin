@@ -1,0 +1,20 @@
+{
+  "author": "Patrick Zeitz",
+  "description": "Backup connector for orchestrator (read-only REST API).",
+  "download_url": "https://raw.githubusercontent.com/patrickzeitz/backup_orchestrator_agent_plugin/main/agent-backup.zip",
+  "homepage": "https://github.com/patrickzeitz/backup_orchestrator_agent_plugin",
+  "last_updated": "2026-04-15T09:44:24Z",
+  "metadata_url": "https://raw.githubusercontent.com/patrickzeitz/backup_orchestrator_agent_plugin/main/agent-backup-update.json",
+  "name": "Agent Backup - by Jung und Wild design",
+  "plugin": "agent-backup/agent-backup.php",
+  "requires": "6.0",
+  "requires_php": "8.1",
+  "sections": {
+    "changelog": "Current release: 0.3.3. See the linked public repository for the packaged ZIP and update metadata.",
+    "description": "Backup connector for orchestrator (read-only REST API).",
+    "installation": "Install the ZIP via Plugins > Add New > Upload Plugin, then activate it. The plugin uses this public metadata file for WordPress-native updates by default."
+  },
+  "slug": "agent-backup",
+  "tested": "6.9",
+  "version": "0.3.3"
+}
